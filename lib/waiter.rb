@@ -24,5 +24,11 @@ class Waiter
       meal.waiter == self #checking for waiter now
     end
   end
+  
+  def best_tipper
+      end
+  
+    best_tipped_meal.customer
+  end
 
 end
